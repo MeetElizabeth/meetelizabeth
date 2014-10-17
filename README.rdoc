@@ -1,3 +1,5 @@
 == MeetElizabeth.co
 
 A personal portfolio site for Elizabeth Abernethy, built on Rails.
+
+Visit the site [here](http://www.meetelizabeth.co)
